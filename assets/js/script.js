@@ -37,19 +37,19 @@ const musicData = [
   {
     backgroundImage: "./assets/images/poster-4.jpg",
     posterUrl: "./assets/images/poster-4.jpg",
-    title: "Yoru Ni Kakeru | 夜に駆ける",
+    title: "Sparkle | スパークル",
     album: "Redirected By Me",
     year: 2024,
-    artist: "Songs By Yoasobi",
+    artist: "Songs By Radwimps",
     musicPath: "./assets/music/music-4.mp3",
   },
   {
     backgroundImage: "./assets/images/poster-5.jpg",
     posterUrl: "./assets/images/poster-5.jpg",
-    title: "Gunjou | 群青",
+    title: "Suzume | すずめ",
     album: "Redirected By Me",
     year: 2024,
-    artist: "Songs By Yoasobi",
+    artist: "Songs By Radwimps",
     musicPath: "./assets/music/music-5.mp3",
   },
 ];
